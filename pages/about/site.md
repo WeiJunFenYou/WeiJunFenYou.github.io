@@ -2,6 +2,10 @@
 title: 关于站点
 ---
 
-Valaxy + valaxy-theme-yun Demo Site
+静谧平和的博客
 
-- Default Theme: [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/)
+主要内容：
+
+《卢瑟经济学》
+
+布兰登·比格斯（Brandon Biggs）预言
