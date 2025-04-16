@@ -3,10 +3,11 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   lang: 'zh-CN',
   title: '静谧平和的博客',
+  subtitle: '欢迎访问的我的博客！',
   author: {
     name: '静谧平和',
   },
-  description: '静谧平和的博客',
+  description: '编程知识、经济学、玄学、科学新理论，我都感兴趣',
   social: [
     {
       name: 'GitHub',
