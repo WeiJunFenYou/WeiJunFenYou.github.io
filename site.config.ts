@@ -21,6 +21,12 @@ export default defineSiteConfig({
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
+    {
+      name: '知乎',
+      link: 'https://www.zhihu.com/people/yang-mu-lao-15',
+      icon: 'i-ri-zhihu-line',
+      color: '#0084FF',
+    },
   ],
 
   search: {
