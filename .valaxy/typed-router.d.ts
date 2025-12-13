@@ -135,20 +135,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/2025/07/26': RouteRecordInfo<
-      '/posts/2025/07/26',
-      '/posts/2025/07/26',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/2025/07/30': RouteRecordInfo<
-      '/posts/2025/07/30',
-      '/posts/2025/07/30',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/posts/2025/08/12': RouteRecordInfo<
       '/posts/2025/08/12',
       '/posts/2025/08/12',
@@ -159,6 +145,13 @@ declare module 'vue-router/auto-routes' {
     '/posts/2025/12/06': RouteRecordInfo<
       '/posts/2025/12/06',
       '/posts/2025/12/06',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/2025/12/13': RouteRecordInfo<
+      '/posts/2025/12/13',
+      '/posts/2025/12/13',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -342,18 +335,6 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/posts/2025/07/26.md': {
-      routes:
-        | '/posts/2025/07/26'
-      views:
-        | never
-    }
-    'pages/posts/2025/07/30.md': {
-      routes:
-        | '/posts/2025/07/30'
-      views:
-        | never
-    }
     'pages/posts/2025/08/12.md': {
       routes:
         | '/posts/2025/08/12'
@@ -363,6 +344,12 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/2025/12/06.md': {
       routes:
         | '/posts/2025/12/06'
+      views:
+        | never
+    }
+    'pages/posts/2025/12/13.md': {
+      routes:
+        | '/posts/2025/12/13'
       views:
         | never
     }
